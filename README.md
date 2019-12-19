@@ -9,11 +9,13 @@ Topics include an overview of computers and programming languages, basic element
 This repo is a complete composite of the weekly labs that I did for this class.
 
 ## Weekly Assignments
-[Week 1 Lab]()
-[Week 2 Lab]()
-[Week 3 Lab]()
-[Week 4 Lab]()
-[Week 5 Lab](Week5\week5.cpp)
-[Week 6 Lab]()
-[Week 7 Lab]()
-[Week 8 Lab]() 
+* [Week 1 Assignment: My First Program]()
+* [Week 2 Assignment: Reading & Writing Files]()
+* [Week 3 Assignment: Celluar Bill]()
+* [Week 4 Assignment: What's In a Number?]()
+* [Midterm Exam]()
+* [Week 5 Assignment: Time Conversion](Week5\week5.cpp)
+* [Week 6 Assignment: Random Numbers]()
+* [Week 7 Assignment: Airplane Seating]()
+* [Week 8 Assignment: Fruit Data]()
+* [Final Exam]() 
