@@ -9,7 +9,7 @@ Topics include an overview of computers and programming languages, basic element
 This repo is a complete composite of the weekly labs that I did for this class.
 
 ## Weekly Assignments
-* [Week 1 Assignment: My First Program]()
+* [Week 1 Assignment: My First Program](Week1\week1.cpp)
 * [Week 2 Assignment: Reading & Writing Files]()
 * [Week 3 Assignment: Celluar Bill]()
 * [Week 4 Assignment: What's In a Number?]()
