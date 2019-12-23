@@ -15,7 +15,7 @@ This repo is a complete composite of the weekly labs that I did for this class.
 * [Week 4 Assignment: What's In a Number?]()
 * [Midterm Exam]()
 * [Week 5 Assignment: Time Conversion](Week5\week5.cpp)
-* [Week 6 Assignment: Random Numbers]()
+* [Week 6 Assignment: Random Numbers](Week6\week6.cpp)
 * [Week 7 Assignment: Airplane Seating]()
 * [Week 8 Assignment: Fruit Data]()
 * [Final Exam]() 

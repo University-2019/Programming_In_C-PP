@@ -1,4 +1,5 @@
 /*
+Week 5 Assignment: Time Conversion
 James Lee Kennedy, 19 Dec 19
 CS 265 
 */
